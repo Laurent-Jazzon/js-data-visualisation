@@ -1,5 +1,9 @@
 # js-datavisualisation-challenge
 
+## The web page
+
+- [Check it here !](ttps://laurent-jazzon.github.io/js-data-visualisation/)
+
 ## Our team
 
 - Jérémy Mertens
