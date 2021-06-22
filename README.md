@@ -20,3 +20,9 @@
 ## Status 
 
 - Finished: April 12, 2021
+
+## The original repo 
+
+[Check it here !](https://github.com/JER89/js-datavisualisation-challenge)
+
+![](https://media.giphy.com/media/WOBqCAeZzhny1R1fwq/giphy.gif)
